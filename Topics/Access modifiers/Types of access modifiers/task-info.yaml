@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: package-private (default)
+  - text: protected
+  - text: private
+  - text: friend
+  - text: static
+  - text: public
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1954#comment
+status: Solved
+record: -1
+local_check: false

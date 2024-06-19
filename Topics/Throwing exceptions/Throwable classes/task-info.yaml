@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: java.io.IOException
+  - text: java.lang.Object
+  - text: java.lang.Long
+  - text: java.lang.Exception
+  - text: java.lang.RuntimeException
+  - text: java.lang.Throwable
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2814#comment
+status: Solved
+record: -1
+local_check: false

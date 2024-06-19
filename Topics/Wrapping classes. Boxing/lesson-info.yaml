@@ -1,0 +1,14 @@
+content:
+  - Theory
+  - Converting an integer object to a string
+  - Transitioning between integer forms and displaying values
+  - Wrapper classes for char and int
+  - Result of the code
+  - Autoboxing int
+  - How many wrappers
+  - Initializing long value
+  - Identify a possible exception
+  - Identify possible exceptions
+  - Only true or false
+  - "NPE, zero or null"
+  - Safe converting

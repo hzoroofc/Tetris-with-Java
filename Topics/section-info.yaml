@@ -1,0 +1,27 @@
+content:
+  - Defining classes
+  - Grouping classes with packages
+  - Instance methods
+  - Initializing new instances. Constructor
+  - Access modifiers
+  - Getters and setters
+  - Inheritance
+  - Referencing subclass objects
+  - Keyword  super
+  - Multiple constructors
+  - Objects and their properties
+  - Static members
+  - Adding annotations
+  - Method overriding
+  - Polymorphism
+  - Declaring functionality with interfaces
+  - Random class
+  - Hierarchy of exceptions
+  - Throwing exceptions
+  - Wrapping classes. Boxing
+  - Introduction to generic programming
+  - Generics and Object
+  - What are collections
+  - The Collections framework overview
+  - ArrayList
+  - The List interface
