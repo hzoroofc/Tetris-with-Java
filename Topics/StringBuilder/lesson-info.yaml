@@ -1,0 +1,11 @@
+content:
+  - Theory
+  - Combining strings using a mutable sequence
+  - Immutability
+  - Multiple modifications
+  - What is the output
+  - Behold the power of StringBuilder
+  - StringBuilder methods
+  - Create an email
+  - Love of big letters
+  - Concat all strings without digits

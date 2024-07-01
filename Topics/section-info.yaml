@@ -25,3 +25,8 @@ content:
   - The Collections framework overview
   - ArrayList
   - The List interface
+  - Processing strings
+  - StringBuilder
+  - The Set interface
+  - Fields and methods in enum
+  - Records

@@ -26,7 +26,7 @@ class Car {
         speed += increase;
         // Use a condition to check if the speed becomes greater than 200
         // if so, cap the speed at 200
-        if(speed > 200) {
+        if (speed > 200) {
             speed = 200;
         }
     }
